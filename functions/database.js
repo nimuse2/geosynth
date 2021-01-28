@@ -11,7 +11,7 @@ function getData() {
   
               latLongObj.forEach((o) => {
                 xyObj1.push({ 
-                          "name": o.fields.last.stringValue ,
+                          "name": o.fields.first.stringValue ,
                           "x":lon2x(o.fields.long.doubleValue),
                           "y":lat2y(o.fields.lat.doubleValue)
                 });

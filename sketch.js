@@ -73,9 +73,6 @@ function draw(_obj){
       "y": (p.y - (heightMax - side_max_height))
     })
   });
-
-  // const leftMin = getMin(xyObj, "x", rightMax);
-  // const topMin = getMin(xyObj, "y", heightMax);
   
   const xPos = (windowWidth/2)-(side_max_width/2);//in middle
   const yPos = (windowHeight/2)-(side_max_height/2);//sta
