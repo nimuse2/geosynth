@@ -1,2 +1,3 @@
 # geosynth
-MaxforLive device
+
+MaxforLive device for
