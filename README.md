@@ -1,3 +1,3 @@
 # geosynth
 
-MaxforLive device for [image](./screenshot.jpeg)
+MaxforLive device for ![image](./screenshot.jpeg)
